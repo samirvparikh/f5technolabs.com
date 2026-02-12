@@ -1,0 +1,6 @@
+{
+    "name": "portfolio/contact-api",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}

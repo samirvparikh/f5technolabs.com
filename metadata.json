@@ -1,0 +1,8 @@
+{
+  "name": "F5Technolabs - Premier Software Solutions",
+  "description": "A sophisticated static website for a software development company featuring AI-driven project analysis and a modern professional interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
