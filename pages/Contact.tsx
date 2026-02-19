@@ -97,8 +97,8 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900">Email Us</h4>
-                  <p className="text-slate-500">hello@f5technolabs.com</p>
-                  <p className="text-slate-500">sales@f5technolabs.com</p>
+                  <p className="text-slate-500">f5technolabs@gmail.com</p>
+                  <p className="text-slate-500">f5technolabs@gmail.com</p>
                 </div>
               </div>
 
@@ -108,8 +108,8 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900">Call Us</h4>
-                  <p className="text-slate-500">+1 (555) 123-4567</p>
-                  <p className="text-slate-500">+91 98765 43210</p>
+                  <p className="text-slate-500">+91 70464 94199</p>
+                  <p className="text-slate-500">+61 04745 61370</p>
                 </div>
               </div>
 
@@ -119,8 +119,8 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900">Visit Us</h4>
-                  <p className="text-slate-500">123 Tech Park, HSR Layout,</p>
-                  <p className="text-slate-500">Bengaluru, KA 560102, India</p>
+                  <p className="text-slate-500">Parimal Elegance, Naroda</p>
+                  <p className="text-slate-500">Ahmedabad, 382330, India</p>
                 </div>
               </div>
             </div>
